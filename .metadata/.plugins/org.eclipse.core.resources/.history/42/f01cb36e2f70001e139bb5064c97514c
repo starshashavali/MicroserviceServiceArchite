@@ -1,0 +1,12 @@
+package com.org.restcontroller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MsgRestController {
+	
+	public String getMsg() {
+		return "Govindaaa Govindaa Govindaaa";
+	}
+
+}

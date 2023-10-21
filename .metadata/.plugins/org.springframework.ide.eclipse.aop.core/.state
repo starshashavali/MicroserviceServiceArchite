@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ServiceRegistryApp"/>
+<aop-project name="MsgApiConsumer"/>
+<aop-project name="IFeignClientApp"/>
+<aop-project name="MsgApiProvider"/>
+</aop-reference-model>

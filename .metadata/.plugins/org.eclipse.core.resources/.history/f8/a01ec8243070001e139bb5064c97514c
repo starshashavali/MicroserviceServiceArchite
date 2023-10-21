@@ -1,0 +1,11 @@
+package com.org.feign;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public interface IMsgFeignclient {
+	@GetMapping("/msg")
+	public String getMsg() {
+
+	
+	
+}
